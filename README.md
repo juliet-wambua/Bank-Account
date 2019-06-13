@@ -6,7 +6,7 @@
 This is an application that enables the user to make withdrawals and deposits then see a balance in the account.
 
 ## Setup/Installation Requirements
-* Git clone link
+* Git clone link https://github.com/juliet-wambua/Bank-Account.git
 * cd Portfolio
 * Open index.html from a browser
 
